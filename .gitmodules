@@ -1,0 +1,3 @@
+[submodule "webapp_maven_deploy/webapp_maven_deploy"]
+	path = webapp_maven_deploy/webapp_maven_deploy
+	url = https://github.com/prabhat10624/repo
