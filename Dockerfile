@@ -4,4 +4,4 @@ FROM ubuntu:16.04
 #    apt-get install -y git
 #RUN git clone https://github.com/prabhat10624/repo.git
 
-COPY prabhatmishra.txt .
+COPY test .
